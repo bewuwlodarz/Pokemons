@@ -1,0 +1,14 @@
+GET http://localhost:5177/api/pokemons
+Accept: application/json
+
+###
+
+GET http://localhost:5177/api/pokemon/1
+Accept: application/json
+
+###
+
+GET http://localhost:5177/api/pokemon?pageSize=25&pageNumber=1
+Accept: application/json
+
+###
