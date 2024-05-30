@@ -10,10 +10,8 @@ This repository contains two main components:
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Running the Application](#running-the-application)
-- [Project Structure](#project-structure)
 - [Build and Deployment](#build-and-deployment)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Prerequisites
 
