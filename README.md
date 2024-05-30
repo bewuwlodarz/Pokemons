@@ -47,7 +47,7 @@ Before you begin, ensure you have the following installed on your machine:
 1. Navigate to the `WEBAPI` directory:
 
    ```sh
-   cd WEBAPI
+   cd WebApi/WebApi
    ```
 
 2. Restore the .NET dependencies:
@@ -112,7 +112,7 @@ Before you begin, ensure you have the following installed on your machine:
 
 1. Navigate to the `WEBAPI` directory:
     ```sh
-    cd WEBAPI
+   cd WebApi/WebApi
     ```
 
 2. Publish the API:
